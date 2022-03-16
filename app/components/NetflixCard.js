@@ -43,13 +43,13 @@ const styles = StyleSheet.create({
   heading: {
     fontSize: 30,
     padding: 10,
-    color: '#fff',
+    color: '#E83A14',
   },
   imgContainer: {
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 2,
-    borderColor: '#fff',
+    borderColor: '#E83A14',
     width: 300,
   },
   img: {
@@ -80,13 +80,13 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     borderWidth: 2,
     marginVertical: 15,
-    borderColor: 'red',
+    borderColor: '#E83A14',
   },
   btnText: {
     alignItems: 'center',
     justifyContent: 'center',
     color: '#fff',
-    backgroundColor: 'red',
+    backgroundColor: '#E83A14',
     textAlign: 'center',
     width: 100,
     height: 20,
